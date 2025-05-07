@@ -11,6 +11,7 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "formidable": "^3.8.0",
     "@supabase/supabase-js": "^2.18.0"
   }
 }
