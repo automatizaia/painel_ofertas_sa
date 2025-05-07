@@ -4,18 +4,17 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.0.0",       // Dependência do Supabase
-    "formidable": "^2.0.0",                   // Dependência do Formidable para uploads
-    "next": "14.1.0",                         // Dependência do Next.js
-    "react": "^18.0.0",                       // Dependência do React
-    "react-dom": "^18.0.0"                    // Dependência do React DOM
+    "@supabase/supabase-js": "^2.0.0",
+    "formidable": "^2.0.0",
+    "next": "14.1.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "eslint": "8.0.0",                        // Dependência para linting
-    "eslint-config-next": "12.0.0"            // Configuração do ESLint para Next.js
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0"
   }
 }
